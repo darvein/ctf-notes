@@ -24,11 +24,17 @@
 !_TAG_OUTPUT_VERSION	0.0	/current.age/
 !_TAG_PARSER_VERSION!Markdown	1.1	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/n0kt/blog/content/infosec/ctf-notes/	//
+!_TAG_PROC_CWD	/home/n0kt/work/me/darvein-blog/content/infosec/ctf-notes/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.1.0	/v6.1.0/
 CTFs Notes	readme.md	/^# CTFs Notes$/;"	c
 Easy - H1 Thermostat	h1/easy-h1-theormostat.md	/^# Easy - H1 Thermostat$/;"	c
+Easy - MicroCMS	h1/easy-microcms.md	/^# Easy - MicroCMS$/;"	c
+Flag 0x01	h1/easy-microcms.md	/^## Flag 0x01$/;"	s	chapter:Easy - MicroCMS
+Flag 0x02	h1/easy-microcms.md	/^## Flag 0x02$/;"	s	chapter:Easy - MicroCMS
+Flag 0x03	h1/easy-microcms.md	/^## Flag 0x03$/;"	s	chapter:Easy - MicroCMS
+Flag 0x04	h1/easy-microcms.md	/^## Flag 0x04/;"	s	chapter:Easy - MicroCMS
 Linux	readme.md	/^## Linux$/;"	s	chapter:CTFs Notes
+Trivial - Little something	h1/trivial-little-somth.md	/^# Trivial - Little something$/;"	c
