@@ -18,23 +18,38 @@
 !_TAG_KIND_DESCRIPTION!Markdown	s,section	/sections/
 !_TAG_KIND_DESCRIPTION!Markdown	t,subsubsection	/level 3 sections/
 !_TAG_KIND_DESCRIPTION!Markdown	u,l5subsection	/level 5 sections/
+!_TAG_KIND_DESCRIPTION!Sh	a,alias	/aliases/
+!_TAG_KIND_DESCRIPTION!Sh	f,function	/functions/
+!_TAG_KIND_DESCRIPTION!Sh	h,heredoc	/label for here document/
+!_TAG_KIND_DESCRIPTION!Sh	s,script	/script files/
 !_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_OUTPUT_VERSION	0.0	/current.age/
 !_TAG_PARSER_VERSION!Markdown	1.1	/current.age/
+!_TAG_PARSER_VERSION!Sh	0.0	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
 !_TAG_PROC_CWD	/home/n0kt/work/me/darvein-blog/content/infosec/ctf-notes/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.1.0	/v6.1.0/
+!_TAG_ROLE_DESCRIPTION!Sh!heredoc	endmarker	/end marker/
+!_TAG_ROLE_DESCRIPTION!Sh!script	loaded	/loaded/
 CTFs Notes	readme.md	/^# CTFs Notes$/;"	c
 Easy - H1 Thermostat	h1/easy-h1-theormostat.md	/^# Easy - H1 Thermostat$/;"	c
 Easy - MicroCMS	h1/easy-microcms.md	/^# Easy - MicroCMS$/;"	c
+Easy - Postbook	h1/easy-postbook.md	/^# Easy - Postbook$/;"	c
 Flag 0x01	h1/easy-microcms.md	/^## Flag 0x01$/;"	s	chapter:Easy - MicroCMS
+Flag 0x01	h1/easy-postbook.md	/^## Flag 0x01$/;"	s	chapter:Easy - Postbook
 Flag 0x02	h1/easy-microcms.md	/^## Flag 0x02$/;"	s	chapter:Easy - MicroCMS
+Flag 0x02	h1/easy-postbook.md	/^## Flag 0x02$/;"	s	chapter:Easy - Postbook
 Flag 0x03	h1/easy-microcms.md	/^## Flag 0x03$/;"	s	chapter:Easy - MicroCMS
+Flag 0x03	h1/easy-postbook.md	/^## Flag 0x03$/;"	s	chapter:Easy - Postbook
 Flag 0x04	h1/easy-microcms.md	/^## Flag 0x04$/;"	s	chapter:Easy - MicroCMS
+Flag 0x04	h1/easy-postbook.md	/^## Flag 0x04$/;"	s	chapter:Easy - Postbook
+Flag 0x05	h1/easy-postbook.md	/^## Flag 0x05$/;"	s	chapter:Easy - Postbook
+Flag 0x06	h1/easy-postbook.md	/^## Flag 0x06$/;"	s	chapter:Easy - Postbook
+Flag 0x07	h1/easy-postbook.md	/^## Flag 0x07$/;"	s	chapter:Easy - Postbook
 Linux	readme.md	/^## Linux$/;"	s	chapter:CTFs Notes
 Trivial - Little something	h1/trivial-little-somth.md	/^# Trivial - Little something$/;"	c
