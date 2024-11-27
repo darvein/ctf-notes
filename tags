@@ -37,11 +37,14 @@
 !_TAG_ROLE_DESCRIPTION!Sh!heredoc	endmarker	/end marker/
 !_TAG_ROLE_DESCRIPTION!Sh!script	loaded	/loaded/
 CTFs Notes	readme.md	/^# CTFs Notes$/;"	c
+Easy - BugDB v1	h1/easy-bugdbv1.md	/^# Easy - BugDB v1$/;"	c
 Easy - H1 Thermostat	h1/easy-h1-theormostat.md	/^# Easy - H1 Thermostat$/;"	c
 Easy - MicroCMS	h1/easy-microcms.md	/^# Easy - MicroCMS$/;"	c
 Easy - Postbook	h1/easy-postbook.md	/^# Easy - Postbook$/;"	c
+Flag 0x01	h1/easy-bugdbv1.md	/^## Flag 0x01$/;"	s	chapter:Easy - BugDB v1
 Flag 0x01	h1/easy-microcms.md	/^## Flag 0x01$/;"	s	chapter:Easy - MicroCMS
 Flag 0x01	h1/easy-postbook.md	/^## Flag 0x01$/;"	s	chapter:Easy - Postbook
+Flag 0x02	h1/easy-bugdbv1.md	/^## Flag 0x02$/;"	s	chapter:Easy - BugDB v1
 Flag 0x02	h1/easy-microcms.md	/^## Flag 0x02$/;"	s	chapter:Easy - MicroCMS
 Flag 0x02	h1/easy-postbook.md	/^## Flag 0x02$/;"	s	chapter:Easy - Postbook
 Flag 0x03	h1/easy-microcms.md	/^## Flag 0x03$/;"	s	chapter:Easy - MicroCMS
